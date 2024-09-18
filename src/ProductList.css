@@ -80,10 +80,18 @@ body {
     transition: transform 0.3s ease-in-out;
     z-index: 1;
 }
-
+.product-category {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center; /* This centers the text horizontally */
+}
 .product-title {
     font-weight: bold;
     margin-bottom: 10px;
+}
+
+.product-description {
+    font-weight: normal;
 }
 
 .product-price {

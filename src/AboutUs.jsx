@@ -5,19 +5,21 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
+      <p className="about-us-description">Welcome to James Garden, where green meets serenity!</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+      At James Garden, we are dedicated to helping you create your own green oasis. Our mission is to
+       offer a diverse selection of premium plants that not only beautify your space but also promote 
+       a healthier and eco-friendly lifestyle. Whether you're looking for air-purifying plants, vibrant 
+       flowers, or fragrant herbs, James Garden has something to inspire every plant lover and turn any 
+       area into a thriving, natural retreat.
       </p>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
+      Our team of experts is committed to ensuring that every plant meets the highest standards of quality
+       and care. Whether you're an experienced gardener or just beginning your green journey, we're here to 
+       guide you every step of the way. Explore our carefully curated collection, ask us any questions, and 
+       let us help you find the ideal plant for your home or office. We're here to make your plant-buying 
+       experience as enjoyable and successful as possible.
       </p>
       {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
 
